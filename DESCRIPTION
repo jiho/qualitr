@@ -1,0 +1,12 @@
+Package: qc
+Type: Package
+Title: Flag Data for Quality Control
+Version: 0.1.0
+Authors@R: person("Jean-Olivier", "Irisson", email = "irisson@normalesup.org", role = c("aut", "cre"))
+Description: This package provides tools to help perform quality control of
+    data. In particular, il provides an interactive plotting interface which
+    allows to select data points and assign flags to them.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
